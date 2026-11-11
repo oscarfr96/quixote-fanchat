@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-label="Ilustración de un molino y un libro abierto en un paisaje manchego">
+<rect x="8" y="8" width="624" height="404" rx="200" fill="#eee8d9"/>
+<circle cx="444" cy="112" r="51" fill="#d8b47d" opacity=".55"/>
+<g fill="none" stroke="#65735c" stroke-width="1.5"><path d="M49 308Q180 245 310 294T599 297"/><path d="M48 330Q213 284 354 322T602 322"/><path d="M101 359Q255 319 510 359"/></g>
+<g stroke="#394a3f" stroke-width="2" stroke-linejoin="round"><path d="m365 155-24 144h96l-25-144Z" fill="#f8f5ee"/><path d="m352 157 36-44 38 44Z" fill="#b89968"/><path d="M376 299v-49a13 13 0 0 1 26 0v49" fill="#c9c3ae"/><path d="M384 188h12v20h-12Z" fill="#c9c3ae"/>
+<g fill="#f1e8d5"><path d="m388 155-78-69-13 18 91 51Z"/><path d="m388 155 69-78 18 13-87 65Z"/><path d="m388 155 78 69 13-18-91-51Z"/><path d="m388 155-69 78-18-13 87-65Z"/></g>
+<path d="m388 155-85-60m85 60 78-72m-78 72 85 60m-85-60-78 72"/><circle cx="388" cy="155" r="6" fill="#926133"/></g>
+<g stroke="#394a3f" stroke-width="2" stroke-linejoin="round"><path d="M122 251q62-13 128 24 52-27 117-17l-10 91q-61-9-110 17-59-32-123-24Z" fill="#d0b887"/><path d="M127 239q71-4 124 28 48-29 111-20l-8 88q-57-5-106 20-58-29-121-23Z" fill="#fffcf6"/><path d="m251 267-3 88" fill="none"/><path d="m144 262q44 2 85 23m-85-8q44 2 85 23m-85-8q44 2 85 23m37-29q37-19 72-18m-72 33q37-19 72-18m-72 33q37-19 72-18" fill="none" stroke="#b9ad95" stroke-width="1.4"/></g>
+<path d="m160 203 53-84 6 83-59 1m16-26 37-58m-21 57 21-57m-53 84 25 29m-13-47-29 46" fill="none" stroke="#8f7750" stroke-width="1.6"/>
+<text x="93" y="110" fill="#8c806c" font-family="Georgia,serif" font-size="15" font-style="italic">Donde los libros</text><text x="93" y="133" fill="#8c806c" font-family="Georgia,serif" font-size="15" font-style="italic">cobran voz.</text>
+<g fill="#8f7750"><circle cx="288" cy="70" r="2"/><circle cx="527" cy="251" r="2"/><circle cx="115" cy="192" r="2"/></g>
+</svg>

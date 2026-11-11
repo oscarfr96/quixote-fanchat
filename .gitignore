@@ -1,0 +1,33 @@
+# Credenciales y configuración privada
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+
+# Índices, conversaciones, trazas y artefactos de MLflow
+.runtime/
+mlruns/
+mlartifacts/
+*.db
+*.db-*
+*.sqlite*
+*.log
+
+# Editor / SO
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

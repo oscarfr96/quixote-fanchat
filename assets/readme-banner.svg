@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="540" viewBox="0 0 1600 540" role="img" aria-labelledby="title description">
+  <title id="title">Quixote Fan Chat: un chatbot con RAG y MLflow</title>
+  <desc id="description">Un chat sobre El Quijote recupera fragmentos de un PDF y registra su recorrido en MLflow. Ilustración del flujo Chat, RAG y Observabilidad.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#f7faf8"/><stop offset="1" stop-color="#edf3f0"/></linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="m2 1 6 4-6 4" fill="none" stroke="#6d8d7b" stroke-width="2"/></marker>
+  </defs>
+  <rect x="1" y="1" width="1598" height="538" rx="28" fill="url(#background)" stroke="#dce6df" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="48" y="62" fill="#53695d" font-size="20" letter-spacing="4">QUIXOTE FAN CHAT</text>
+    <text x="48" y="142" fill="#213b2d" font-size="64" font-weight="700" letter-spacing="-2">Chat con RAG y MLflow</text>
+    <text x="50" y="192" fill="#5f7166" font-size="25">El Quijote como fuente. OpenAI como voz. Cada respuesta deja una traza.</text>
+    <g transform="translate(1350 28)" stroke="#789684" stroke-width="3" fill="none" stroke-linejoin="round">
+      <circle cx="118" cy="60" r="50" fill="#dce8df" stroke="none"/>
+      <path d="m83 65-13 100h63l-12-100Z" fill="#f7faf8"/><path d="m77 66 25-30 25 30Z" fill="#cfddd3"/>
+      <path d="m102 65-49-44-9 13 58 31m0 0 44-49 13 9-57 40m0 0 49 44 9-13-58-31m0 0-44 49-13-9 57-40"/>
+      <circle cx="102" cy="65" r="5" fill="#6d8d7b"/>
+      <path d="M22 140q40-2 70 17 29-17 69-15v41q-39-2-69 15-32-18-70-17Z" fill="#fff"/><path d="M92 157v41"/>
+      <path d="M33 154q26 2 48 13m-48-1q26 2 48 13m23-12q22-12 44-12m-44 23q22-12 44-12" stroke="#b2c4b8" stroke-width="2"/>
+    </g>
+    <g fill="#fff" stroke="#d7e3db" stroke-width="2">
+      <rect x="48" y="240" width="456" height="252" rx="18"/>
+      <rect x="572" y="240" width="456" height="252" rx="18"/>
+      <rect x="1096" y="240" width="456" height="252" rx="18"/>
+    </g>
+    <g fill="none" stroke="#6d8d7b" stroke-width="3" marker-end="url(#arrow)"><path d="M518 366h38"/><path d="M1042 366h38"/></g>
+    <g fill="#264433" font-size="25" font-weight="700"><text x="74" y="284">01 · Chat</text><text x="598" y="284">02 · RAG sobre el PDF</text><text x="1122" y="284">03 · MLflow</text></g>
+    <rect x="74" y="306" width="404" height="54" rx="12" fill="#eef3f0"/>
+    <text x="91" y="340" fill="#344c3e" font-size="22">¿Quién es Sancho Panza?</text>
+    <text x="78" y="398" fill="#53695d" font-size="22">El fiel escudero de don Quijote.</text>
+    <text x="78" y="454" fill="#6d8d7b" font-size="18">Respuesta con páginas y fuentes</text>
+    <g transform="translate(598 311)" fill="#f5f8f6" stroke="#9eb7a7" stroke-width="2"><rect x="0" y="7" width="52" height="61" rx="5"/><rect x="11" y="0" width="52" height="61" rx="5"/><path d="M23 16h26m-26 13h26m-26 13h19"/></g>
+    <text x="680" y="337" fill="#53695d" font-size="21">Fragmentos + embeddings</text>
+    <text x="680" y="367" fill="#53695d" font-size="21">Búsqueda por similitud</text>
+    <rect x="598" y="401" width="404" height="61" rx="10" fill="#eef3f0"/>
+    <text x="618" y="439" fill="#344c3e" font-size="22">5 fragmentos → contexto del LLM</text>
+    <g fill="none" stroke="#b4c9bc" stroke-width="2"><path d="M1130 316v124m0-109h16m-16 49h16m-16 49h16"/></g>
+    <g font-family="Consolas, monospace" fill="#53695d" font-size="19"><text x="1160" y="337">clasificar_tema</text><text x="1160" y="386">recuperar_fragmentos</text><text x="1160" y="435">redactar_respuesta</text></g>
+    <g fill="#dce9e0"><rect x="1160" y="347" width="218" height="8" rx="4"/><rect x="1160" y="396" width="107" height="8" rx="4"/><rect x="1160" y="445" width="278" height="8" rx="4"/></g>
+    <text x="1122" y="477" fill="#6d8d7b" font-size="17">Entradas · salidas · tiempos · tokens</text>
+  </g>
+</svg>
